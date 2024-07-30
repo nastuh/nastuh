@@ -7,7 +7,7 @@
 ### :woman_technologist: About Me :
 I'm a programmer from Belarus.
 - :telescope: I learn programming languages and database.
-- :fire: In my free time i try to create something new.
+- :fire: My native language is russian, but i can speak both of them, and i learn chinese.
 - :mag_right: You can search me: https://t.me/superstarmond or https://www.youtube.com/channel/UCFh7hPtlCC16imnRzkjmnWA
 
 ---
