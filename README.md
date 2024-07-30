@@ -28,7 +28,7 @@ I'm a programmer from Belarus.
 
 ---
 
-[![Nastuh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Nastuh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nastuh)](https://github.com/nastuh/github-readme-stats)
 
 
 
