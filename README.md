@@ -8,7 +8,7 @@
 I'm a programmer from Belarus.
 - :telescope: I learn programming languages and database.
 - :fire: In my free time i try to create something new.
-- :mag_right: You can search me: https://discord.gg/knMZR37q, https://t.me/superstarmond or https://www.youtube.com/channel/UCFh7hPtlCC16imnRzkjmnWA
+- :mag_right: You can search me: https://t.me/superstarmond or https://www.youtube.com/channel/UCFh7hPtlCC16imnRzkjmnWA
 
 ---
 
