@@ -19,7 +19,3 @@ I'm a programmer from Belarus.
 [![Nastuh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nastuh)](https://github.com/nastuh/github-readme-stats)
 
 
-
----
-
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
