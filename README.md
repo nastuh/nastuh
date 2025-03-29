@@ -8,7 +8,7 @@
 I'm a programmer from Belarus.
 - :telescope: I learn programming languages and database.
 - :fire: My native language is russian, but i can speak both of them, and i learn chinese and thai.
-- :mag_right: You can search me: telegram - di9star; discord - noodlees
+- :mag_right: You can search me: telegram - di9star; discord - noodlees1
 
 
 ---
