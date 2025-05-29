@@ -12,4 +12,4 @@ I'm a programmer from Belarus.
 
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nastuh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)                                           
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nastuh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manokiku&show_icons=true&theme=onedark&include_all_commits=true&line_height=20&card_width=430)                                      
