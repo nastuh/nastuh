@@ -6,9 +6,9 @@
 
 ### :woman_technologist: About Me :
 I'm a programmer from Belarus.
-- :telescope: I learn programming languages and database.
-- :fire: My native language is russian, but i can speak both of them, and i learn chinese and thai.
-- :mag_right: You can search me: telegram - di9star; discord - noodlees1
+- :telescope: I learn programming languages and databases.
+- :fire: My native language is Russian, but I can speak both Russian and English, and I am learning Chinese and Thai.
+- :mag_right: You can find me on: telegram - di9star; discord - noodlees1
 
 
 ---
