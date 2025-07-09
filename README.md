@@ -3,13 +3,7 @@
 </div>
 
 ---
-
-### :woman_technologist: About Me :
-I'm a programmer from Belarus.
-- :telescope: I learn programming languages and databases.
-- :fire: My native language is Russian, but I can speak both Russian and English, and I am learning Chinese and Thai.
-- :mag_right: You can find me on: telegram - di9star; discord - noodlees1
-
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nastuh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)                                         
