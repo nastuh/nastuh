@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nastuh.nastuh" />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFoOWw0eWU3Z2JjY2V1aHd1d2Y3dWx6dGJtY2J5b2R6eGJ1dXlxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="400" alt="Coding GIF" />
+  <img src="(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDF5cjVlNnJidjN1OHFkcm4wNGtmMmt0YXMzZTFrZjB6NzlldnIxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gr8K2b72UefvO/giphy.gif)" width="400" alt="Coding GIF" />
 
 
 ### 📫 **Contact:**  
