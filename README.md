@@ -12,7 +12,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-</br> 
+
 📊 **Моя статистика на GitHub:**  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nastuh&layout=compact&theme=radical)](https://github.com/nastuh)
