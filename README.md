@@ -1,8 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nastuh.nastuh" />
 
-📊 **Моя активность на GitHub:**  
 
-![Snake animation](https://github.com/nastuh/nastuh/blob/output/github-contribution-grid-snake.svg)
 
 ### 📫 **Contact:**  
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/di9star) 
