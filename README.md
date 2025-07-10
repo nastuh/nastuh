@@ -1,9 +1,12 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nastuh.nastuh" />
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDF5cjVlNnJidjN1OHFkcm4wNGtmMmt0YXMzZTFrZjB6NzlldnIxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gr8K2b72UefvO/giphy.gif" alt="Nastuh" />
+</div>
 
-<br>
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDF5cjVlNnJidjN1OHFkcm4wNGtmMmt0YXMzZTFrZjB6NzlldnIxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gr8K2b72UefvO/giphy.gif" width="250" alt="Coding GIF" />
-  
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nastuh.nastuh" alt="Visitors"/>
+</div>
+
+---
 
 <h1 align="center">👋 Hi, I'm nastuh</h1>
 <h3 align="center">🚀 Full-Stack Developer | Python & TypeScript Specialist</h3>
@@ -35,18 +38,10 @@
 ---
 
 ### 📊 **GitHub Stats**  
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nastuh&layout=compact&theme=radical&hide=less,css" />
-</div>
-
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nastuh&layout=compact&theme=radical&hide=less,css)
 
 ---
 
 ### 📫 **Connect With Me**  
-<div align="center">
-  <a href="https://t.me/di9star">
-    <img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://discord.com/users/1133406940576366642">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
-  </a>
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/di9star)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/1133406940576366642)
