@@ -36,7 +36,7 @@
 
 ### 📫 **Connect With Me**  
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/di9star)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/1133406940576366642)
+(https://discord.com/users/1133406940576366642)
 
 ---
 
