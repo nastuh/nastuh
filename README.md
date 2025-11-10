@@ -15,7 +15,7 @@
 
 ---
 
-**GitHub Stats**  
+### **GitHub Stats**  
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nastuh&layout=compact&theme=radical&hide=less,css)
 
