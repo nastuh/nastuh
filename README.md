@@ -1,7 +1,7 @@
 
 
 <h1 align="center">👋 Hi, I'm nastuh</h1>
-<h3 align="center">🚀 Full-Stack Developer | Python & TypeScript Specialist</h3>
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/di9star)
 
 ---
 
@@ -34,10 +34,6 @@
 
 ---
 
-### 📫 **Connect With Me**  
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/di9star)
-
----
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nastuh.nastuh" alt="Visitors"/>
