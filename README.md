@@ -45,13 +45,12 @@
 
 ---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nastuh.nastuh" alt="Visitors"/>
-</div>
----
-
 ### **GitHub Stats**  
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nastuh&layout=compact&theme=radical&hide=less,css)
 
+---
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nastuh.nastuh" alt="Visitors"/>
+</div>
