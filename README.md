@@ -3,11 +3,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/di9star)
 </h1>
 
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nastuh.nastuh" alt="Visitors"/>
-</div>
-
 ---
 
 ### **Tech Stack**  
@@ -48,6 +43,11 @@
   <img width="11" />
 </div>
 
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nastuh.nastuh" alt="Visitors"/>
+</div>
 ---
 
 ### **GitHub Stats**  
