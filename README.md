@@ -3,7 +3,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/di9star)
 </h1>
 
----
+
 
 ### **Tech Stack**  
 <div align="center">
